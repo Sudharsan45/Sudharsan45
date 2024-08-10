@@ -10,7 +10,7 @@ Data Analyst
 - 🤔 I’m looking for help with Placements
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.instagram.com/career_analyst/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudharsancn/)
+<br /> [<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white%22" />](https://www.instagram.com/career_analyst/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudharsancn/)
 - 😄 Pronouns: Techie<br/>
   <br/>![](https://komarev.com/ghpvc/?username=Rangaiyan&label=PROFILE+VIEWS)
 
@@ -18,7 +18,7 @@ Data Analyst
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://www.pngwing.com/en/search?q=excel+Icon"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+<img height="50" width="50" src=https://www.pngwing.com/en/free-png-bbvxo/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
 ![Rangaiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudharsan45&theme=dark&show_icons=true&&hide=issues,contribs)
 
